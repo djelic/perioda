@@ -1,6 +1,6 @@
 {
   "name": "perioda",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Periodical task runner",
   "main": "lib/perioda.js",
   "scripts": {
